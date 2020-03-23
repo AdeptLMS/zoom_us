@@ -1,0 +1,7 @@
+{
+  "gemName": "zoom_us",
+  "moduleName": "ZoomUs",
+  "gemVersion": "0.1.0",
+  "gemLicense": "MIT",
+  "gemRequiredRubyVersion": ">= 2.5.3"
+}
