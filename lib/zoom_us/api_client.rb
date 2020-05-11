@@ -65,7 +65,7 @@ module ZoomUs
           fail ApiError.new(:code => response.code,
                             :response_headers => response.headers,
                             :response_body => response.body),
-               response.status_message.nil? ? response.body : response.status_message
+               response.body
         end
       end
 

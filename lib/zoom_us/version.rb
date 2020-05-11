@@ -11,5 +11,5 @@ Swagger Codegen version: 2.4.12
 =end
 
 module ZoomUs
-  VERSION = '0.1.1'
+  VERSION = '0.1.2'
 end
